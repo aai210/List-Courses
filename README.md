@@ -1,5 +1,5 @@
 # Description
-
+This document contains a list of courses and materials that I use to improve my skills. This is mainly related to Visual Graphics, Design, UI and UX, 3D Graphics, Motion Design and sometimes Code.
 
 # List Courses
 
