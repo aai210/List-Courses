@@ -24,3 +24,9 @@ This document contains a list of courses and materials that I use to improve my 
 [Как создать реалистичные материалы в 3D // CGStream // 3d моделирование](https://youtu.be/aocnpHoTAZg) (1 Hour 57 Minutes)
 
 ![](https://i.ytimg.com/vi/aocnpHoTAZg/maxresdefault.jpg)
+
+---
+
+[СКЕТЧ И ПОИСК ИДЕЙ. CG Stream. Алексей Самохин](https://youtu.be/ksvXm0YZm0Y) (1 Hour 47 Minutes)
+
+![](https://i.ytimg.com/vi/ksvXm0YZm0Y/maxresdefault.jpg)
