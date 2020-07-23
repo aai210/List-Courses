@@ -1,1 +1,1 @@
-# List-ourses
+# List-Courses
