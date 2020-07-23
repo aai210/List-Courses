@@ -36,3 +36,9 @@ This document contains a list of courses and materials that I use to improve my 
 [Automotive Modeling in Maya](https://www.pluralsight.com/courses/automotive-modeling-maya-1266) (6 Hour 24 Minutes)
 
 ![](https://i.ytimg.com/vi/dlu6eqHwqWU/maxresdefault.jpg)
+
+---
+
+[Fundamentals on UI Animation in AE](https://motiondesign.school/products/ui-animation-fundamentals) (1 Hour 30 Minutes)
+
+![](https://i.ytimg.com/vi/PsRa7meGGlI/maxresdefault.jpg)
