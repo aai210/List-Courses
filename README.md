@@ -30,3 +30,9 @@ This document contains a list of courses and materials that I use to improve my 
 [СКЕТЧ И ПОИСК ИДЕЙ. CG Stream. Алексей Самохин](https://youtu.be/ksvXm0YZm0Y) (1 Hour 47 Minutes)
 
 ![](https://i.ytimg.com/vi/ksvXm0YZm0Y/maxresdefault.jpg)
+
+---
+
+[Automotive Modeling in Maya](https://www.pluralsight.com/courses/automotive-modeling-maya-1266) (6 Hour 24 Minutes)
+
+![](https://i.ytimg.com/vi/dlu6eqHwqWU/maxresdefault.jpg)
