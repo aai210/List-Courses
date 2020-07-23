@@ -18,3 +18,9 @@ This document contains a list of courses and materials that I use to improve my 
 [TRAIN STATION! | Blender 2.8 Lowpoly Isometric Timelapse!](https://youtu.be/-BjJNMC048U) (14 Minutes)
 
 ![](https://i.ytimg.com/vi/-BjJNMC048U/maxresdefault.jpg)
+
+---
+
+[Как создать реалистичные материалы в 3D // CGStream // 3d моделирование](https://youtu.be/aocnpHoTAZg) (1 Hour 57 Minutes)
+
+![](https://i.ytimg.com/vi/aocnpHoTAZg/maxresdefault.jpg)
