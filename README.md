@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[Logo Workshop: The Angry Taco](https://www.pluralsight.com/courses/logo-workshop-angry-taco-907) (1 Hour 21 Minutes)
+
+![](https://img.pluralsight.com/course-images/logo-workshop-angry-taco-907-v1.jpg)
+
+---
+
 [3D Modeling in Maya // Robotic Muscles](https://youtu.be/MWjU16jGQwU) (22 Minutes)
 
 ![](https://i.ytimg.com/vi/MWjU16jGQwU/maxresdefault.jpg)
