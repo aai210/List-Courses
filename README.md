@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[Hard Surface Design in Maya](https://www.youtube.com/watch?v=Xulmmvqxpao) (7 Minutes)
+
+![](https://i.ytimg.com/vi/Xulmmvqxpao/maxresdefault.jpg)
+
+---
+
 [Avoiding Deformation On Curved Surfaces in Cinema4D](https://youtu.be/v-6rgr2oSpg) (13 Minutes)
 
 ![](https://i.ytimg.com/vi/v-6rgr2oSpg/maxresdefault.jpg)
