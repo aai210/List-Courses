@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[Avoiding Deformation On Curved Surfaces in Cinema4D](https://youtu.be/v-6rgr2oSpg) (13 Minutes)
+
+![](https://i.ytimg.com/vi/v-6rgr2oSpg/maxresdefault.jpg)
+
+---
+
 [Maya Bifrost Tutorial](https://youtu.be/6Ep4SJ-WN9s) (25 Minutes)
 
 ![](http://immage.biz/images/2020/07/23/SeM5.jpg)
