@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[3D Modeling in Maya // Robotic Muscles](https://youtu.be/MWjU16jGQwU) (22 Minutes)
+
+![](https://i.ytimg.com/vi/MWjU16jGQwU/maxresdefault.jpg)
+
+---
+
 [Hard Surface Design in Maya](https://www.youtube.com/watch?v=Xulmmvqxpao) (7 Minutes)
 
 ![](https://i.ytimg.com/vi/Xulmmvqxpao/maxresdefault.jpg)
