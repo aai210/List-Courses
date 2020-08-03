@@ -3,6 +3,18 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[ShaderFX in Maya LT -- Creating an Interactive Planet Shader Part 2](https://youtu.be/jaukPL7-nJw) (27 Minutes)
+
+![](https://i.ytimg.com/vi/jaukPL7-nJw/maxresdefault.jpg)
+
+---
+
+[ShaderFX in Maya LT -- Creating an Interactive Planet Shader Part 1](https://youtu.be/p8r17HDgPSA) (30 Minutes)
+
+![](https://i.ytimg.com/vi/p8r17HDgPSA/maxresdefault.jpg)
+
+---
+
 [Logo Workshop: The Angry Taco](https://www.pluralsight.com/courses/logo-workshop-angry-taco-907) (1 Hour 21 Minutes)
 
 ![](https://img.pluralsight.com/course-images/logo-workshop-angry-taco-907-v1.jpg)
