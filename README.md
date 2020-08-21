@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[Learn Corona for Cinema 4d In Under 70 Minutes](http://mographplus.com/97-a-quick-introduction-to-corona-for-cinema-4d/) (1 Hour 9 Minutes)
+
+![](http://mographplus.com/wp-content/uploads/2018/03/01.jpg)
+
+---
+
 [ShaderFX in Maya LT -- Creating an Interactive Planet Shader Part 2](https://youtu.be/jaukPL7-nJw) (27 Minutes)
 
 ![](https://i.ytimg.com/vi/jaukPL7-nJw/maxresdefault.jpg)
