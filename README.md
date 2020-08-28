@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[How I'm Using Notion - 6 Months Later](https://youtu.be/KDU8uk9ywhc) (25 Minutes)
+
+![](https://i1.ytimg.com/vi/KDU8uk9ywhc/maxresdefault.jpg)
+
+---
+
 [Bulletproof Notion Template 2.0 is here](https://youtu.be/mGpFcwQjXD4) (52 Minutes)
 
 ![](https://i.ytimg.com/vi/mGpFcwQjXD4/maxresdefault.jpg)
