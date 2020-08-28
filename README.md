@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[I switched to Notion for a week... Here's what happened!](https://youtu.be/ONv_4aR_7e0) (14 Minutes)
+
+![](https://i1.ytimg.com/vi/ONv_4aR_7e0/maxresdefault.jpg)
+
+---
+
 [How I'm Using Notion - 6 Months Later](https://youtu.be/KDU8uk9ywhc) (25 Minutes)
 
 ![](https://i1.ytimg.com/vi/KDU8uk9ywhc/maxresdefault.jpg)
