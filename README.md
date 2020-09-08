@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[Inside Marie's Powerful Notion](https://youtu.be/GQAhT8erKV0) (46 Minutes)
+
+![](https://i.ytimg.com/vi/GQAhT8erKV0/maxresdefault.jpg)
+
+---
+
 [I switched to Notion for a week... Here's what happened!](https://youtu.be/ONv_4aR_7e0) (14 Minutes)
 
 ![](https://i1.ytimg.com/vi/ONv_4aR_7e0/maxresdefault.jpg)
