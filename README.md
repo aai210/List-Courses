@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[Modeling the Bugatti Veyron in Maya](https://cgi.tutsplus.com/tutorials/modeling-the-bugatti-veyron-in-maya-day-1--cg-3215) (15 Hour)
+
+![](https://cms-assets.tutsplus.com/uploads/users/71/posts/9533/final_image/BugattiVeryon_Preview.jpg)
+
+---
+
 [Inside Marie's Powerful Notion](https://youtu.be/GQAhT8erKV0) (46 Minutes)
 
 ![](https://i.ytimg.com/vi/GQAhT8erKV0/maxresdefault.jpg)
