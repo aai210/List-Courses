@@ -3,6 +3,12 @@ This document contains a list of courses and materials that I use to improve my 
 
 # List Courses
 
+[My 2019 Notion Layout: Tour](https://cgi.tutsplus.com/tutorials/modeling-the-bugatti-veyron-in-maya-day-1--cg-3215) (27 Minutes)
+
+![](https://i.pinimg.com/originals/38/52/e2/3852e2ca0c60a893efb14c14b54e46cb.jpg)
+
+---
+
 [Modeling the Bugatti Veyron in Maya](https://cgi.tutsplus.com/tutorials/modeling-the-bugatti-veyron-in-maya-day-1--cg-3215) (15 Hour)
 
 ![](https://cms-assets.tutsplus.com/uploads/users/71/posts/9533/final_image/BugattiVeryon_Preview.jpg)
